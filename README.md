@@ -1,3 +1,26 @@
+# Full Stack Assignment
+
+## Tech Stack
+- React
+- Node.js
+- Express
+- MySQL
+
+## Features
+- Add data
+- Fetch data
+- Update/Delete
+
+## Run Project
+
+### Frontend
+npm install
+npm start
+
+### Backend
+npm install
+npm run dev
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
